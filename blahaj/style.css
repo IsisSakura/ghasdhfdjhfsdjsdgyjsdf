@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-header{
+.cabecalho{
     background-color: #383D58;
     color:white;
     display: flex;
@@ -10,8 +10,10 @@ header{
     align-items: center;
     border-image-width: 10;
 }
-
-li{
+.cabecalho-imagem{
+width: 20%;
+}
+.cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
