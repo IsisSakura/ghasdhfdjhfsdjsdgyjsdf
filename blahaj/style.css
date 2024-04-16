@@ -18,3 +18,27 @@ width: 20%;
     margin: 0 16px;
     font-size: 24px;
 }
+.corpo-1{
+    background-image: linear-gradient(#383D58,#4EBFE9);
+    color:white;
+    display: flex;
+}
+.corpo-titulo{
+    padding: 24px;
+    align-items: left;
+    justify-content: left;
+}
+.corpo-2{
+    width: 35%;
+    align-items: left;
+    justify-content: left;
+    padding: 24px;
+}
+.corpo-imagem{
+    width:30%;
+    border-radius: 45px;
+    align-items: right;
+    justify-content: right;
+    padding: 24px;
+    filter:drop-shadow(10px 10px 10px#383D58) ;
+}
