@@ -44,7 +44,7 @@ width: 20%;
     align-items: right;
     justify-content: right;
     padding: 24px;
-    filter:drop-shadow(10px 10px 10px#383D58) ;
+    filter:drop-shadow(10px 10px 10px #383D58) ;
 }
 
 
@@ -70,15 +70,12 @@ width: 20%;
     align-items: right;
     justify-content: right;
     padding: 24px;
-    filter:drop-shadow(10px 10px 10px#383D58) ;
+    filter:drop-shadow(10px 10px 10px #383D58) ;
 }
 
-.corpo-texto2{
-    
-}
 .corpo-texto3{
-    
+    font-size: 20px;
 }
 .corpo-texto4{
-    
+    font-size: 10px;
 }
